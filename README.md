@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Misael Santos
 
-- 👀 I’m interested in Frontend Development — my main skill is Flutter
+- 👀 I enjoy building applications that make people’s lives easier.
 
 ---
 ### 🧠 Frameworks & Languages  
@@ -12,6 +12,15 @@
     width='30px'
     style='padding-right: 10px;'
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+/>
+
+<img 
+    align='left'
+    alt='React Native'
+    title='React Native'
+    width='30px'
+    style='padding-right: 10px;'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
 <img 
@@ -34,15 +43,6 @@
 
 <img 
     align='left'
-    alt='PostgreSQL'
-    title='PostgreSQL'
-    width='30px'
-    style='padding-right: 10px;'
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-
-<img 
-    align='left'
     alt='Node.js'
     title='Node.js'
     width='30px'
@@ -52,18 +52,18 @@
 
 <img 
     align='left'
+    alt='PostgreSQL'
+    title='PostgreSQL'
+    width='30px'
+    style='padding-right: 10px;'
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+<img 
+    align='left'
     alt='Docker'
     title='Docker'
     width='30px'
     style='padding-right: 10px;'
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-
-<img 
-    align='left'
-    alt='React Native'
-    title='React Native'
-    width='30px'
-    style='padding-right: 10px;'
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
